@@ -1,6 +1,6 @@
 name: Test
 on:
-  push:
+  push:864945151293653084
   schedule:
     - cron: '*/5 * * * *'
 jobs:
